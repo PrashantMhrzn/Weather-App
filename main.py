@@ -26,5 +26,6 @@ def api_data():
     return parsed
 
 
-print('Today\'s weather forecast:\n')
-weather_info(api_data())
+if __name__ == '__main__':
+    print('Today\'s weather forecast:\n')
+    weather_info(api_data())
