@@ -1,6 +1,7 @@
-# Weather App
-A simple program that shows the weather using OpenWeatherMap One Call API.
-*Note: Inorder to use the One Call API provided by OpenWeatherMap you need to get the api key from [here](https://openweathermap.org/price) and add the required information.*
+# Weather App :sunrise_over_mountains:
+A simple program:book: that shows the weather using :stars:***OpenWeatherMap One Call API***.
+<br/>
+*Note: Inorder to use the **One Call API** provided by **[OpenWeatherMap](https://openweathermap.org/)** you need to get the api key from **[here](https://openweathermap.org/price)** and add the required information.*
 ## Installation
 
 ```bash
